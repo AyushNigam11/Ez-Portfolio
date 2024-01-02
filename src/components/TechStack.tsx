@@ -26,7 +26,7 @@ const TechStack: FC<TechStackProps> = ({}) => {
         <TechCard
           title="Backend"
           classaName="bg-[#f37c36]"
-          tech={['Node Js', 'Express Js', 'Django', ' Python ']}
+          tech={['Node Js', 'Express Js', 'Django', ' Python']}
         />
         <TechCard
           title="Database"
