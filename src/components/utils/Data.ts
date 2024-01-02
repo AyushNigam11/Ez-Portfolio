@@ -58,7 +58,7 @@ export const projectCard: IProjectSectionCardData[] = [
     techStack:
       'Python Scripting, Matplotlib, Keras Motions',
     imageUrl: 'Blender-addon.jpeg',
-    href: 'https://github.com/nwaliaez/eCommerce',
+    href: 'https://github.com/AyushNigam11',
   },
 ];
 
