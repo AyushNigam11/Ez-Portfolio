@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center" id="title">Az-Portfolio</h1>
 
-## Getting Started
+<p id="description">Explore my personal portfolio website meticulously crafted with Next.js Resend API and the robust MERN stack. This dynamic platform showcases my web development journey featuring a seamless user experience and highlighting key projects. With a responsive design Resend API integration and the power of MongoDB Express.js React.js and Node.js this portfolio stands as a testament to my skills and creativity.</p>
 
-First, run the development server:
+<h2>🚀 Demo</h2>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+[https://www.ayuxh.cloud](https://www.ayuxh.cloud)
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Next.js Framework: Ensures fast and optimized performance.
+*   MERN Stack: MongoDB Express.js React.js Node.js for a comprehensive tech stack.
+*   Responsive Design: Adapts seamlessly to various devices.
+*   rojects Showcase: Highlights my key projects with detailed descriptions and links.
+*   Contact Form: Facilitates direct communication with a Resend API-powered form.
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone the repository.</p>
+
+<p>2. Install dependencies.</p>
+
+```
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p>3. Configure Resend API and MongoDB.</p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+import { Resend } from 'resend';  const resend = new Resend('re_NrktA5fb_HDcysYNornGn1J146Ea7TJ66');  resend.emails.send({   from: 'onboarding@resend.dev'   to: 'anigam629@gmail.com'   subject: 'Hello World'   html: 'Congrats on sending your first email!' });
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<p>4. Run the development server.</p>
 
-## Learn More
+```
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+<h2>🍰 Contribution Guidelines:</h2>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Open to contributions! Feel free to open issues or pull requests for enhancements or bug fixes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+  
+  
+<h2>💻 Built with</h2>
 
-## Deploy on Vercel
+Technologies used in the project:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+*   MERN
+*   NEXT JS
+*   Resend API
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# az-snipp
-# asdfghjkl
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT License
