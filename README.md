@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Az-Portfolio</h1>
+<h1 align="center" id="title">Ez-Portfolio</h1>
 
 <p id="description">Explore my personal portfolio website meticulously crafted with Next.js Resend API and the robust MERN stack. This dynamic platform showcases my web development journey featuring a seamless user experience and highlighting key projects. With a responsive design Resend API integration and the power of MongoDB Express.js React.js and Node.js this portfolio stands as a testament to my skills and creativity.</p>
 
