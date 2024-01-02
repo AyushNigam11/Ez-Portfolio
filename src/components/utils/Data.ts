@@ -42,7 +42,7 @@ export const projectCard: IProjectSectionCardData[] = [
     title: ' DALL·E Clone',
     techStack: 'OpenAI, Nodejs, Express, Mongoose, ReactJS, Tailwind CSS',
     imageUrl: 'dalle-clone.webp',
-    href: 'https://github.com/nwaliaez/dalleClone',
+    href: 'https://github.com/AyushNigam11/dalleClone',
   },
   {
     id: 2,
