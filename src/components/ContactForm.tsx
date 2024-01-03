@@ -7,7 +7,7 @@ import { X } from 'lucide-react';
 import { toast } from 'react-hot-toast';
 import Spinner from './Spinner';
 
-interface ContactFormProps {}
+interface ContactFormProps {} 
 
 const ContactForm: FC<ContactFormProps> = ({}) => {
     const { showForm, setFormVisibility } = useContact();
