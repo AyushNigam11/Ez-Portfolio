@@ -36,12 +36,12 @@ const Menu: FC<MenuProps> = ({}) => {
       <List link="/" effect="slideUp">
         <Home /> Home
       </List>
-      <List link="/" effect="slideUp">
-        <Flame /> Trending
+      <List link="https://driporg.com" effect="slideUp">
+        <Flame /> My Startup
       </List>
       
-      <List link="https://www.instagram.com/who_is_ayuxh/" effect="slideUp">
-        <Video /> Videos
+      <List link="https://dev.to/ayushnigam" effect="slideUp">
+        <Video /> My Dev.TO
       </List>
 
       {/* List 2 */}
